@@ -9,7 +9,7 @@ Durante o curso React: criando formulários com Formik e Yup, realizei a refator
 ## 🔨 Funcionalidades do projeto
 
 Refatoração dos formulários existentes utilizando Formik
-Validações estruturadas com Yup (caso esteja usando, vale incluir!)
+Validações estruturadas com Yup
 Melhor organização e gerenciamento de estado dos formulários
 
 ## ✔️ Técnicas e tecnologias utilizadas
