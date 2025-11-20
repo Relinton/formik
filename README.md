@@ -1,6 +1,3 @@
-
-![Front-end-React_ construíndo formulários com Formik](https://github.com/MonicaHillman/3650-formik/assets/51282495/ea82840e-35c2-46b4-a92f-5e255713099e)
-
 # Freelando
 
 O Freelando é uma Startup. Nesse momento, ele possui uma tela inicial, de login e de cadastro.
@@ -10,13 +7,9 @@ O Freelando é uma Startup. Nesse momento, ele possui uma tela inicial, de login
 
 ## 🔨 Funcionalidades do projeto
 
-Nesse primeiro momento, nós temos o fluxo que foi idealizada como a primeiro entrega do time de desenvolvimento. Agora, iremos refatorar os formulários existentes para aplicar a biblioteca Formik.
-
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/DGIzbfXEi27oiKzI0nGMIV/Freelando-%7C-WebApp-com-React?node-id=244%3A11524&t=J2NfqHrvVIr0jsgs-0).
+Foi refatorado os formulários existentes para aplicar a biblioteca Formik.
 
 ## ✔️ Técnicas e tecnologias utilizadas
-
-Se liga nessa lista de tudo que usaremos nesse curso:
 
 - `React`
 - `Biblioteca Formik`
